@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 , I'm BEKİR DEMİRCİOĞLU<br>
-<a href="https://www.instagram.com/bkrdmrcioglu/" target="blank">@bkrdmrcioglu</a>
+<a href="https://www.instagram.com/bekirdmrcioglu/" target="blank">@bekirdmrcioglu</a>
 <h3 align="center">DM for Freelance Projects<br>
 <a href="mailto:bkrdmrcioglu@gmail.com">bkrdmrcioglu@gmail.com</a></h3>
 </h1>
 <h3 align="center">Connect With Me</h3>
 <p align="center">
-	<a href="mailto:bkrdmrcioglu@gmail.com" target="blank"><img align="center" src="https://limysoft.com.tr/icons/gmail.svg" alt="bkrdmrcioglu" height="30" width="40"/></a>
-    <a href="https://www.instagram.com/bkrdmrcioglu/" target="blank"><img align="center" src="https://limysoft.com.tr/icons/instagram.svg" alt="bkrdmrcioglu" height="30" width="40"/></a>
+	<a href="mailto:bkrdmrcioglu@gmail.com" target="blank"><img align="center" src="https://limysoft.com.tr/icons/gmail.svg" alt="bekirdmrcioglu" height="30" width="40"/></a>
+    <a href="https://www.instagram.com/bekirdmrcioglu/" target="blank"><img align="center" src="https://limysoft.com.tr/icons/instagram.svg" alt="bkrdmrcioglu" height="30" width="40"/></a>
 	<br>
 	<br>
 	<h3 align="center">Language & Data</h3>
