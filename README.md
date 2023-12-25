@@ -6,9 +6,7 @@
 <h3 align="center">Connect With Me</h3>
 <p align="center">
 	<a href="mailto:bkrdmrcioglu@gmail.com" target="blank"><img align="center" src="https://limysoft.com.tr/icons/gmail.svg" alt="limysoftcom" height="30" width="40"/></a>
-    <a href="https://www.instagram.com/limysoftcom/" target="blank"><img align="center" src="https://limysoft.com.tr/icons/instagram.svg" alt="limysoftcom" height="30" width="40"/></a>
-	<a href="https://www.twitter.com/limysoftcom" target="blank"><img align="center" src="https://limysoft.com.tr/icons/twitter.svg" alt="limysoftcom" height="30" width="40"/></a>
-	<a href="https://linkedin.com/in/limysoftcom" target="blank"><img align="center" src="https://limysoft.com.tr/icons/linkedin.svg" alt="limysoftcom" height="30" width="40"/></a>
+    <a href="https://www.instagram.com/bkrdmrcioglu/" target="blank"><img align="center" src="https://limysoft.com.tr/icons/instagram.svg" alt="limysoftcom" height="30" width="40"/></a>
 	<br>
 	<br>
 	<h3 align="center">Language & Data</h3>
