@@ -3,9 +3,6 @@
 <h3 align="center">DM for Freelance Projects<br>
 <a href="mailto:bkrdmrcioglu@gmail.com">bkrdmrcioglu@gmail.com</a></h3>
 </h1>
- <div align="center"> 
-<img height="300em"src="https://limysoft.com.tr/icons/deadline.gif" alt"hello world"> <br><br><br>
-</div> 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
 	<a href="mailto:bkrdmrcioglu@gmail.com" target="blank"><img align="center" src="https://limysoft.com.tr/icons/gmail.svg" alt="limysoftcom" height="30" width="40"/></a>
