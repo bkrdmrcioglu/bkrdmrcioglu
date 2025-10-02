@@ -1,49 +1,42 @@
-<h1 align="center">Hi 👋 , I'm BEKİR DEMİRCİOĞLU<br> 
-  <a href="https://www.instagram.com/bekirdmrcioglu/" target="blank">@bekirdmrcioglu</a> 
-</h1> 
+<h1 align="center">👋 Merhaba, Ben Bekir Demircioğlu</h1>
+<h3 align="center">💻 Full Stack Developer | 🌍 Hollanda</h3>
 
-<h3 align="center">DM for Freelance Projects<br> 
-  <a href="mailto:bkrdmrcioglu@gmail.com">bkrdmrcioglu@gmail.com</a>
-</h3> 
+---
 
-<h3 align="center">Connect With Me</h3> 
-<p align="center">
-  <a href="mailto:bkrdmrcioglu@gmail.com" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/bekirdmrcioglu/" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="30" width="40" style="filter: invert(1);"/>
-  </a>
+### 🚀 Hakkımda
+- 🔭 Şu anda **PHP & React projeleri** geliştiriyorum  
+- 🌱 Yeni öğrendiğim: **React Native & TailwindCSS**  
+- 💬 Bana sorabileceğin konular: **Web Development, Mobil Uygulamalar, E-Ticaret**  
+- ⚡ İlginç not: Kahvemi kodla içiyorum ☕👨‍💻  
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/react/react-original.svg" width="40" height="40" alt="React Native"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 </p>
 
-<br>
+---
 
-<h3 align="center">Language & Data</h3>
+### 📊 GitHub İstatistiklerim
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS Logo"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KENDI_USERNAME&show_icons=true&theme=radical" alt="github stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KENDI_USERNAME&theme=radical" alt="streak stats" height="160"/>
 </p>
 
-<h3 align="center">Frameworks & Tools</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <!-- React Native için -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
-</p>
+---
+
+### 🌐 Bana Ulaş
+- 📧 Mail: **bekir@example.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/KENDI_USERNAME)  
+- 🌍 [Portfolio](https://KENDI_SITE.com)  
+
+---
+
+✨ **Profilimi ziyaret ettiğin için teşekkürler!** ✨
