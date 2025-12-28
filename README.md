@@ -13,7 +13,7 @@
 
 ### 🚀 About Me  
 💻 Full Stack Developer (Freelance Projects)  
-📧 Reach me at: **bkrdmrcioglu@gmail.com**
+📧 Reach me at: **info@bekirdemircioglu.com**
 
 ---
 
