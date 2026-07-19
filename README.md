@@ -9,8 +9,8 @@ I design and ship production software — web platforms, mobile apps, SaaS produ
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bekirdemircioglu.com-3DD6C6?style=for-the-badge&labelColor=0D1117)](https://www.bekirdemircioglu.com)
-[![Email](https://img.shields.io/badge/✉_Email-bkrdmrcioglu@gmail.com-EA4335?style=for-the-badge&labelColor=0D1117)](mailto:bkrdmrcioglu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bekirdemircioglu.com-3DD6C6?style=for-the-badge&labelColor=0D1117)](https://www.bekirdemircioglu.com)
+[![Email](https://img.shields.io/badge/Email-bkrdmrcioglu%40gmail.com-EA4335?style=for-the-badge&labelColor=0D1117)](mailto:bkrdmrcioglu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bkrdmrcioglu/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-8B949E?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white)](https://github.com/bkrdmrcioglu)
 
@@ -130,20 +130,20 @@ Most of my work lives in real businesses — hospitality, real estate, restauran
 <div align="center">
 
 <a href="https://github.com/bkrdmrcioglu">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bkrdmrcioglu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3DD6C6&icon_color=3DD6C6&text_color=C9D1D9&ring_color=3DD6C6" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=bkrdmrcioglu&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=3DD6C6&amp;icon_color=3DD6C6&amp;text_color=C9D1D9&amp;ring_color=3DD6C6" alt="GitHub stats" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/bkrdmrcioglu">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkrdmrcioglu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3DD6C6&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bkrdmrcioglu&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=3DD6C6&amp;text_color=C9D1D9" alt="Top languages" />
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=bkrdmrcioglu&theme=dark&hide_border=true&background=0D1117&ring=3DD6C6&fire=3DD6C6&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&currStreakLabel=8B949E" />
+<img src="https://streak-stats.demolab.com/?user=bkrdmrcioglu&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=3DD6C6&amp;fire=3DD6C6&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;sideLabels=8B949E&amp;dates=8B949E&amp;currStreakLabel=8B949E" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bkrdmrcioglu&bg_color=0D1117&color=3DD6C6&line=3DD6C6&point=E6EDF3&area=true&hide_border=true" width="100%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bkrdmrcioglu&amp;bg_color=0D1117&amp;color=3DD6C6&amp;line=3DD6C6&amp;point=E6EDF3&amp;area=true&amp;hide_border=true" width="100%" alt="Contribution graph" />
 
 </div>
 
