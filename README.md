@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/bekirdmrcioglu/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:info@bekirdemircioglu.com">
+  <a href="mailto:bkrdmricoglu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://bekirdemircioglu.com" target="_blank">
@@ -30,7 +30,7 @@ const bekir = {
   mobile   : ["React Native"],
   databases: ["PostgreSQL", "MySQL", "SQL Server"],
   devops   : ["Linux", "Nginx", "Vercel", "Git"],
-  contact  : "info@bekirdemircioglu.com",
+  contact  : "bkrdmricoglu@gmail.com",
   status   : "Open to freelance projects 💼",
 };
 ```
@@ -105,7 +105,7 @@ const bekir = {
 
 ### 💬 Let's connect and build something great together!
 
-📧 **info@bekirdemircioglu.com**
+📧 **bkrdmricoglu@gmail.com**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bkrdmrcioglu&color=6C63FF&style=flat-square&label=Profile+Views)
 
