@@ -54,19 +54,6 @@ Most of my work lives in real businesses — hospitality, real estate, restauran
       <p><code>Swift</code> · <code>macOS</code> · <code>Pro licenses</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://hqtv.app/">HQTV</a></h3>
-      <p>Digital signage SaaS for businesses.</p>
-      <ul>
-        <li>Cloud playlist & schedule dashboard</li>
-        <li>Android TV / Google TV player</li>
-        <li>6-digit device pairing</li>
-        <li>Offline cached playback</li>
-      </ul>
-      <p><code>Next.js</code> · <code>Expo</code> · <code>PostgreSQL</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/bkrdmrcioglu/panevo">Panevo</a></h3>
       <p>Free & open-source macOS window manager.</p>
       <ul>
@@ -76,16 +63,12 @@ Most of my work lives in real businesses — hospitality, real estate, restauran
       </ul>
       <p><code>Swift</code> · <code>SwiftUI</code> · <code>Homebrew</code></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3><a href="https://www.bekirdemircioglu.com/#projects">Client work</a></h3>
-      <p>Shipped platforms for real operators.</p>
-      <ul>
-        <li>QR menus & ordering (Cep Şef)</li>
-        <li>Booking & hospitality sites</li>
-        <li>Real estate & exchange apps</li>
-        <li>Admin + user dashboards</li>
-      </ul>
-      <p><code>Next.js</code> · <code>PostgreSQL</code> · <code>React Native</code></p>
+      <p>Shipped platforms for real operators — QR menus & ordering, booking & hospitality, real estate, exchange apps, and admin + user dashboards.</p>
+      <p><code>Next.js</code> · <code>PostgreSQL</code> · <code>React Native</code> · <code>Expo</code></p>
     </td>
   </tr>
 </table>
@@ -151,7 +134,7 @@ Most of my work lives in real businesses — hospitality, real estate, restauran
 
 ## Currently
 
-- Shipping and improving **DevSuites** + **HQTV**
+- Shipping and improving **DevSuites**
 - Maintaining **Panevo** as open source
 - Building client products across web + mobile
 - Open for freelance and long-term collaborations
